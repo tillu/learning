@@ -1,0 +1,13 @@
+[user]
+	name = tillu
+	email = sdevineni@monitise.com
+[merge]
+	tool = kdiff3
+[mergetool "kdiff3"]
+    path = C:/Softwares/KDiff3/kdiff3.exe
+    keepBackup = false
+    trustExitCode = false
+[core]
+	editor = vim
+[http]
+	proxy = 192.168.21.145:3128
